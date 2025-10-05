@@ -1,0 +1,7 @@
+{
+    "name": "example recipe",
+    "version": "v1.0",
+    "build": {
+        "linux": ["echo this is the first command to run", "echo this is the second"]
+    }
+}
